@@ -6,7 +6,7 @@ This is a repository containing a study code for a basic clone of the "Notion" a
 
 Notion is a popular tool for organization and collaboration, allowing users to create notes, documents, databases, and more. In this study project, we use the `@tiptap` library to create a basic Notion clone with essential functionalities.
 
-`@tiptap` is a rich-text editor for the web built with Vue.js. It provides a flexible and easy-to-use API for creating and customizing text editors. In this project, we explore some popular extensions of `@tiptap` to add functionalities such as text formatting, list creation, table creation, etc.
+`@tiptap` is a rich-text editor for the web. It provides a flexible and easy-to-use API for creating and customizing text editors. In this project, we explore some popular extensions of `@tiptap` to add functionalities such as text formatting, list creation, table creation, etc.
 
 ## Features
 
